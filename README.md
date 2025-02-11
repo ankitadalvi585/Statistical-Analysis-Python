@@ -1,9 +1,9 @@
 ### Statistical Analysis on Insurance Data
 
-#### Overview
+#### Overview:
 This project performs hypothesis testing techniques such as T-test, ANOVA, and Chi-square tests on an insurance dataset to analyze factors influencing medical costs. The dataset includes variables like age, sex, BMI, number of children, smoking status, region, and insurance charges.
 
-#### Features
+#### Features:
 
 Exploratory Data Analysis (EDA) with visualizations
 
